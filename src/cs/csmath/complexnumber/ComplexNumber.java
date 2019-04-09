@@ -23,7 +23,7 @@ public class ComplexNumber {
 
     public ComplexNumber (double realFart, double imagFart)
     {
-        this.realFart = realFart;
+        this.realFart = realFart;-
         this.imagFart = imagFart;
     }
 
